@@ -16,6 +16,8 @@ Two of the most well-known **non-planar** graphs are:
 - **K₃,₃**: the complete bipartite graph with three vertices in each partition.  
 These graphs cannot be drawn in a plane without edge crossings.
 
+![non-planar graphs](pictures/graph.png)
+
 Planar graphs are of practical interest — for example, they can represent **maps** of countries or regions. On a flat map, we can label each region with a vertex, and draw an edge between vertices if their corresponding regions share a border.  
 Thus, any map can be translated into a planar graph, and vice versa.
 
